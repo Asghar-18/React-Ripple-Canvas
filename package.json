@@ -1,0 +1,33 @@
+{
+  "name": "ripple-canvas",
+  "version": "1.0.0",
+  "description": "A React component for creating ripple effects on a canvas",
+  "main": "dist/index.js",
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Asghar-18/React-Ripple-Canvas.git"
+  },
+  "keywords": [
+    "react",
+    "ripple",
+    "canvas"
+  ],
+  "author": "Asghar Ali",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Asghar-18/React-Ripple-Canvas/issues"
+  },
+  "homepage": "https://github.com/Asghar-18/React-Ripple-Canvas#readme",
+  "dependencies": {
+    "dat.gui": "^0.7.9"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "typescript": "^5.5.4"
+  }
+}
