@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "A React component for creating ripple effects on a canvas",
   "main": "dist/index.js",
-
+  "types": "dist/types/index.d.ts",
   "scripts": {
+    "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -14,7 +15,9 @@
   "keywords": [
     "react",
     "ripple",
-    "canvas"
+    "canvas",
+    "typescript",
+    "component"
   ],
   "author": "Asghar Ali",
   "license": "MIT",
